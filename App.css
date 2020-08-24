@@ -1,0 +1,57 @@
+/* sample */
+.card1 {
+  background-size: cover;
+  box-sizing: border-box;
+  background-image: white;
+  width: 80%;
+  height: 80%;
+  margin: 20px;
+  border-radius: 0.625rem;
+  margin-bottom: 30px;
+  opacity: 1;
+}
+
+.cardd {
+  background-size: cover;
+  box-sizing: border-box;
+  background-color: white;
+  width: 100%;
+  height: 80%;
+  border-radius: 0.625rem;
+  margin-bottom: 30px;
+  opacity: 1;
+}
+
+.green {
+  background-size: cover;
+  box-sizing: border-box;
+  background-color: darkgreen;
+  width: 250%;
+  height: 98%;
+  border-radius: 0.625rem;
+  margin-bottom: 30px;
+  opacity: 1;
+}
+
+.graph {
+  background-size: cover;
+  box-sizing: border-box;
+  background-color: white;
+  width: 70%;
+  height: 80%;
+  border-radius: 0.625rem;
+  margin-bottom: 30px;
+  opacity: 1;
+}
+.cardsss{
+  background-size: cover;
+  box-sizing: border-box;
+  
+  width: 280%;
+  height: 95%;
+  border-radius: 0.625rem;
+  margin-bottom: 30px;
+  opacity: 1;
+  padding: 2em;
+}
+/* end */
